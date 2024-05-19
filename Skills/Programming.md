@@ -3,56 +3,56 @@
 - Concepts
   - Model
   - Modeling
-  - Subject domain
-  - Algorithm
-  - Syntax
+  - Subject domain h
+  - Algorithm u
+  - Syntax u
   - Semantics
-  - Abstraction
-  - Paradigm
-  - Programm
-  - Programming paradigm
-  - Programming language
+  - Abstraction h
+  - Paradigm h
+  - Programm k
+  - Programming paradigm h
+  - Programming language u
   - Contract
   - Module
-  - Library
+  - Library u
   - Package
   - Component
-  - Framework
+  - Framework h
   - Platform
-  - Source code
+  - Source code k
   - Object code
-  - Machine code
+  - Machine code k
   - Microcode
-  - Software engineering
+  - Software engineering h
   - Decomposition
   - Control flow
   - Data flow
   - Code reuse
   - Defensive programming
-  - Don't repeat yourself (DRY)
+  - Don't repeat yourself (DRY) k
   - KISS principle
 - Syntax and concepts
-  - Value
-  - Identifier
-  - Variable
-  - Constant
-  - Scalar
-  - Literal
-  - Expression
-  - Heap
-  - Function
-  - Procedure
-  - Method
-  - Class
-  - Prototype
-  - Event
-  - Type
-  - Flag
-  - Lexical scope
-  - Code block
-  - Conditions
-  - Loops
-  - Assignment
+  - Value u
+  - Identifier u
+  - Variable u
+  - Constant u
+  - Scalar k
+  - Literal u
+  - Expression u
+  - Heap k
+  - Function u
+  - Procedure u
+  - Method u
+  - Class u
+  - Prototype h
+  - Event k
+  - Type u
+  - Flag k
+  - Lexical scope k
+  - Code block u
+  - Conditions u
+  - Loops u
+  - Assignment u 
   - Regular expression
   - Interface
   - Namespaces
@@ -66,8 +66,8 @@
   - Return early
   - Fail-fast
 - Types
-  - Primitive types
-  - Reference types
+  - Primitive types k
+  - Reference types k
   - Type systems
   - Strong typing
   - Weak typing
@@ -81,39 +81,39 @@
   - Covariance
   - Contravariance
 - Functions
-  - Signature
-  - Argument
-  - Parameter
+  - Signature u
+  - Argument u
+  - Parameter u
   - Pure function
-  - Lambda expression
-  - Side effects
-  - Closure
+  - Lambda expression h
+  - Side effects h
+  - Closure h
   - Partial application
-  - Currying
+  - Currying h
   - Higher order
   - Recursion
   - Tail call optimisation
-  - Callback
-  - Listener
+  - Callback h
+  - Listener h
   - Composition
   - Pipe
-  - Memoize
-  - Wrapper
+  - Memoize u
+  - Wrapper h
   - Functor
   - Monad
-  - Monoid
+  - Monoid h
   - Generator
   - Coroutine
 - Data structures
-  - Array
-  - Structure
+  - Array u
+  - Structure h
   - Record
   - Enum
   - Instance
-  - Object
+  - Object u
   - Collection
-  - Set
-  - Hash table
+  - Set h
+  - Hash table h
   - Linked list
   - Doubly list
   - Unrolled list
